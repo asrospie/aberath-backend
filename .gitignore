@@ -9,6 +9,10 @@ Icon
 .Spotlight-V100
 .Trashes
 ._*
+.editorconfig
+.env.example
+.eslintignore
+.eslintrc
 
 
 ############################
