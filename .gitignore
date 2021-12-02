@@ -13,6 +13,7 @@ Icon
 .env.example
 .eslintignore
 .eslintrc
+package-lock.json
 
 
 ############################
